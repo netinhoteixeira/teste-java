@@ -20,6 +20,14 @@ Saída esperada:
 
 ```{“ALBERTO” = 1, “JOAO” = 3, “MARIA” = 2, “PEDRO” = 1}```
 
+### Resposta
+
+A resposta em forma de código se encontra aqui: [./resposta_2](./resposta_2)
+
+O resultado do mesmo funcionando:
+
+![Resultado de Resposta para a Questão 2](./resposta_2/resultado.png)
+
 ## Questão 3
 
 Considere um sistema que tem os seguintes requisitos:
